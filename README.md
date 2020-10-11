@@ -7,3 +7,9 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 <p align="center">
   <img src="./_figs/upch-imt-logo.jpg" width="400" height="150">
 </p>
+
+
+## Sesion 01
+
+**Tema:** Análisis de múltiples epidemias y prevalencias con R y purrr
+**Ponente:** [Andree Valle](https://twitter.com/avallecam)
