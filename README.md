@@ -9,7 +9,8 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 </p>
 
 
-## Sesion 01
+## [Sesion 01](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion01)
 
 **Tema:** Análisis de múltiples epidemias y prevalencias con R y purrr
+
 **Ponente:** [Andree Valle](https://twitter.com/avallecam)
