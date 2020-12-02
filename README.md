@@ -14,3 +14,9 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 **Tema:** Análisis de múltiples epidemias y prevalencias con R y purrr
 
 **Ponente:** [Andree Valle](https://twitter.com/avallecam)
+
+## [Sesion 02](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion02)
+
+**Tema:** Organización y Reproducibilidad en tiempos de pandemia
+
+**Ponente:** [José Incio](https://twitter.com/jlincio)
