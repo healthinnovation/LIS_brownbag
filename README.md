@@ -20,3 +20,10 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 **Tema:** Organización y Reproducibilidad en tiempos de pandemia
 
 **Ponente:** [José Incio](https://twitter.com/jlincio)
+
+
+## [Sesion 03](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion03)
+
+**Tema:** Modelo de estimación de riesgo de corrupción en contrataciones públicas
+
+**Ponente**: [Gianfranco Rossi](https://twitter.com/gjrossir)
