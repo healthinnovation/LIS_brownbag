@@ -9,11 +9,11 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 </p>
 
 
-## [Sesion 01](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion01)
+## [Sesion 03](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion03)
 
-**Tema:** Análisis de múltiples epidemias y prevalencias con R y purrr
+**Tema:** Modelo de estimación de riesgo de corrupción en contrataciones públicas
 
-**Ponente:** [Andree Valle](https://twitter.com/avallecam)
+**Ponente**: [Gianfranco Rossi](https://twitter.com/gjrossir)
 
 ## [Sesion 02](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion02)
 
@@ -21,9 +21,9 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 
 **Ponente:** [José Incio](https://twitter.com/jlincio)
 
+## [Sesion 01](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion01)
 
-## [Sesion 03](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion03)
+**Tema:** Análisis de múltiples epidemias y prevalencias con R y purrr
 
-**Tema:** Modelo de estimación de riesgo de corrupción en contrataciones públicas
+**Ponente:** [Andree Valle](https://twitter.com/avallecam)
 
-**Ponente**: [Gianfranco Rossi](https://twitter.com/gjrossir)
