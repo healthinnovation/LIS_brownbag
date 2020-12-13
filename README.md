@@ -15,11 +15,15 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci√
 
 **Ponente**: [Gianfranco Rossi](https://twitter.com/gjrossir)
 
+**Fecha:** Dic 12, 2020
+
 ## [Sesion 02](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion02)
 
 **Tema:** Organizaci√≥n y Reproducibilidad en tiempos de pandemia
 
-**Ponente:** [Jos√© Incio](https://twitter.com/jlincio)
+**Fecha:** Oct 10, 2020**Ponente:** [Jos√© Incio](https://twitter.com/jlincio)
+
+**Fecha:** Nov 14, 2020
 
 ## [Sesion 01](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion01)
 
@@ -27,3 +31,4 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci√
 
 **Ponente:** [Andree Valle](https://twitter.com/avallecam)
 
+**Fecha:** Oct 10, 2020
