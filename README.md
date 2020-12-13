@@ -21,7 +21,7 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 
 **Tema:** Organización y Reproducibilidad en tiempos de pandemia
 
-**Fecha:** Oct 10, 2020**Ponente:** [José Incio](https://twitter.com/jlincio)
+**Ponente:** [José Incio](https://twitter.com/jlincio)
 
 **Fecha:** Nov 14, 2020
 
