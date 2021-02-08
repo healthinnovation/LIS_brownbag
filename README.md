@@ -3,11 +3,11 @@
 Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovación en Salud](https://investigacion.cayetano.edu.pe/catalogo/biotecnologia/innov-lab) del Instituto de Medicina Tropical "Alezander von Humboldt" - Universidad Peruana Cayetano Heredia.
 
 <p align="center">
-  <img src="./_figs/lis_logo.png">
+  <img src="./_figs/lis_logo.png" width="200" height="250">
 </p>
 
 <p align="center">
-  <img src="./_figs/upch-imt-logo.jpg" width="400" height="150">
+  <img src="./_figs/upch-imt-logo.jpg" width="400" height="120">
 </p>
 
 ----
