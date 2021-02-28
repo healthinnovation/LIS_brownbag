@@ -12,9 +12,17 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 
 ----
 
+## [Sesion 04](https://github.com/JorgeGalindo/excessmortality/)
+
+**Tema:** Visualización de datos para la toma de decisiones en políticas públicas durante la pandemia
+
+**Ponente**: [Jorge Galindo](https://twitter.com/JorgeGalindo)
+
+**Fecha:** Feb 27, 2021
+
 ## [Sesion 03](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion03)
 
-**Tema:** Modelo de estimación de riesgo de corrupción en contrataciones públicas
+**Tema:** FUNES: Modelo de estimación de riesgo de corrupción en contrataciones públicas
 
 **Ponente**: [Gianfranco Rossi](https://twitter.com/gjrossir)
 
