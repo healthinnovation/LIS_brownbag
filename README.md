@@ -12,6 +12,14 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 
 ----
 
+## [Sesion 06](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion06)
+
+**Tema:** Una rápida introducción a los modelos CMIP6
+
+**Ponente:** [Juan Bazo](https://twitter.com/francho3)
+
+**Fecha:** Jul 10, 2021
+
 ## [Sesion 04](https://github.com/JorgeGalindo/excessmortality/)
 
 **Tema:** Visualización de datos para la toma de decisiones en políticas públicas durante la pandemia
