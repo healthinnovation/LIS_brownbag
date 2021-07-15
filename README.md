@@ -12,7 +12,7 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 
 ----
 
-## [Sesion 06](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion06)
+## [Sesion 06](https://github.com/healthinnovation/LIS_brownbag/tree/master/06_BBS_sesion06)
 
 **Tema:** Una rápida introducción a los modelos CMIP6
 
@@ -28,7 +28,7 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 
 **Fecha:** Feb 27, 2021
 
-## [Sesion 03](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion03)
+## [Sesion 03](https://github.com/healthinnovation/LIS_brownbag/tree/master/03_BBS_sesion03)
 
 **Tema:** FUNES: Modelo de estimación de riesgo de corrupción en contrataciones públicas
 
@@ -36,7 +36,7 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 
 **Fecha:** Dic 12, 2020
 
-## [Sesion 02](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion02)
+## [Sesion 02](https://github.com/healthinnovation/LIS_brownbag/tree/master/02_BBS_sesion02)
 
 **Tema:** Organización y Reproducibilidad en tiempos de pandemia
 
