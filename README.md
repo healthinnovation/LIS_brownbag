@@ -1,6 +1,6 @@
-# LIS_brownbag
+# InnovaLab_brownbag
 
-Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovación en Salud](https://investigacion.cayetano.edu.pe/catalogo/biotecnologia/innov-lab) del Instituto de Medicina Tropical "Alezander von Humboldt" - Universidad Peruana Cayetano Heredia.
+Repositorio de las sesiones del "Brown Bag Seminar (BBS)" del [Laboratorio de Innovación en Salud](https://www.innovalab.info/) del Instituto de Medicina Tropical "Alezander von Humboldt" - Universidad Peruana Cayetano Heredia.
 
 <p align="center">
   <img src="./_figs/lis_logo.png" width="200" height="250">
@@ -12,7 +12,15 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 
 ----
 
-## [Sesion 06](https://github.com/healthinnovation/LIS_brownbag/tree/master/06_BBS_sesion06)
+## [Sesion 08](https://github.com/healthinnovation/LIS_brownbag/tree/master/BBS_08)
+
+**Tema:** Visualización de datos espaciales: Diseño de mapas dasimétricos
+
+**Ponente:** [Dominic Roye](https://twitter.com/dr_xeo)
+
+**Fecha:** May 05, 2022
+
+## [Sesion 06](https://github.com/healthinnovation/LIS_brownbag/tree/master/BBS_06)
 
 **Tema:** Una rápida introducción a los modelos CMIP6
 
@@ -28,7 +36,7 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 
 **Fecha:** Feb 27, 2021
 
-## [Sesion 03](https://github.com/healthinnovation/LIS_brownbag/tree/master/03_BBS_sesion03)
+## [Sesion 03](https://github.com/healthinnovation/LIS_brownbag/tree/master/BBS_03)
 
 **Tema:** FUNES: Modelo de estimación de riesgo de corrupción en contrataciones públicas
 
@@ -36,7 +44,7 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 
 **Fecha:** Dic 12, 2020
 
-## [Sesion 02](https://github.com/healthinnovation/LIS_brownbag/tree/master/02_BBS_sesion02)
+## [Sesion 02](https://github.com/healthinnovation/LIS_brownbag/tree/master/BBS_02)
 
 **Tema:** Organización y Reproducibilidad en tiempos de pandemia
 
@@ -44,7 +52,7 @@ Repositorio de las sesiones del "Brown bag series" del [Laboratorio de Innovaci�
 
 **Fecha:** Nov 14, 2020
 
-## [Sesion 01](https://github.com/healthinnovation/LIS_brownbag/tree/master/01_BBS_sesion01)
+## [Sesion 01](https://github.com/healthinnovation/LIS_brownbag/tree/master/BBS_01)
 
 **Tema:** Análisis de múltiples epidemias y prevalencias con R y purrr
 
