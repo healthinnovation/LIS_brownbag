@@ -12,6 +12,14 @@ Repositorio de las sesiones del "Brown Bag Seminar (BBS)" del [Laboratorio de In
 
 ----
 
+## [Sesion 09](https://github.com/shaziaruybal/dashboard-mundialFIFA)
+
+**Tema:** Crea tu dashboard en R: Visualizando datos del Mundial FIFA 1930-2018
+
+**Ponente:** [Shazia Ruybal-Pesántez](https://twitter.com/DrShaziaRuybal)
+
+**Fecha:** Oct 13, 2022
+
 ## [Sesion 08](https://github.com/healthinnovation/LIS_brownbag/tree/master/BBS_08)
 
 **Tema:** Visualización de datos espaciales: Diseño de mapas dasimétricos
